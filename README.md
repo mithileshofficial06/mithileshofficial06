@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=180&section=header&text=MITHILESH%20K%20S&fontSize=52&fontColor=58a6ff&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descAlignY=62&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=MITHILESH%20K%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descColor=aaaaaa&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mithilesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+CSE+Student;Building+AI+that+actually+helps+people+%F0%9F%A4%96;Open+source+explorer+%7C+Problem+solver)](https://git.io/typing-svg)
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=mithileshofficial06&label=Profile+Views&color=238636&style=flat-square" />
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh06/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mithileshofficial06)
 
 </div>
 
@@ -123,13 +125,13 @@ Projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · Na
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithileshofficial06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithileshofficial06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=ffffff&icon_color=238636&bg_color=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshofficial06&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshofficial06&layout=compact&theme=github_dark&border_color=30363d&title_color=ffffff&bg_color=0d1117"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithileshofficial06&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithileshofficial06&theme=github-dark-blue&border=30363d&stroke=30363d&ring=238636&fire=238636&currStreakLabel=ffffff&sideLabels=ffffff&background=0d1117&dates=888888" />
 
 </div>
 
@@ -139,7 +141,7 @@ Projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · Na
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithileshofficial06&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithileshofficial06&theme=github-compact&bg_color=0d1117&color=ffffff&line=238636&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -147,15 +149,14 @@ Projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · Na
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh06/)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithileshofficial06)
 
 <br/>
 
 *"Code. Build. Break. Fix. Repeat."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer"/>
 
 </div>
