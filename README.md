@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=MITHILESH%20K%20S&fontSize=52&fontColor=58a6ff&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Hackathon%20Warrior&descAlignY=62&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=180&section=header&text=MITHILESH%20K%20S&fontSize=52&fontColor=58a6ff&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descAlignY=62&descSize=17&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mithilesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+CSE+Student;Building+AI+that+actually+helps+people+%F0%9F%A4%96;Hackathon+builder+%7C+Open+source+explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mithilesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+CSE+Student;Building+AI+that+actually+helps+people+%F0%9F%A4%96;Open+source+explorer+%7C+Problem+solver)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,13 +21,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name       : Mithilesh K S
-college    : LICET — Loyola ICAM College of Engineering and Technology
-location   : Chennai, Tamil Nadu 🇮🇳
-focus      : Full Stack Web Dev · AI/ML · Automation
-currently  : Building Vaxi-Track 3.0 @ Hackathon 🏆
-learning   : Advanced AI Pipelines · System Design · Cloud Infra
-interests  : Hackathons · Open Source · Real-world problem solving
+name     : Mithilesh K S
+college  : LICET — Loyola ICAM College of Engineering and Technology
+location : Chennai, Tamil Nadu 🇮🇳
+focus    : Full Stack Web Dev · AI/ML · Cybersecurity
+projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · NaviLens
 ```
 
 ---
@@ -95,43 +93,35 @@ interests  : Hackathons · Open Source · Real-world problem solving
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### Core CS
-![DSA](https://img.shields.io/badge/Data%20Structures-0f9d58?style=for-the-badge&logo=leetcode&logoColor=white)
-![DAA](https://img.shields.io/badge/Algorithms%20%26%20Analysis-ff6b35?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ArgoUML](https://img.shields.io/badge/ArgoUML-6E4C8E?style=for-the-badge&logo=uml&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0f9d58?style=for-the-badge&logo=thealgorithms&logoColor=white)
 
 ---
 
@@ -139,23 +129,13 @@ interests  : Hackathons · Open Source · Real-world problem solving
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithileshofficial06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mithileshofficial06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshofficial06&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshofficial06&layout=compact&theme=github_dark&border_color=30363d&title_color=58a6ff&bg_color=0d1117"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithileshofficial06&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mithileshofficial06&theme=algolia&no-frame=true&column=6&margin-w=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mithileshofficial06&theme=github-dark-blue&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&background=0d1117" />
 
 </div>
 
@@ -165,7 +145,7 @@ interests  : Hackathons · Open Source · Real-world problem solving
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithileshofficial06&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithileshofficial06&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true"/>
 
 </div>
 
@@ -182,6 +162,6 @@ interests  : Hackathons · Open Source · Real-world problem solving
 
 *"Code. Build. Break. Fix. Repeat."* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=120&section=footer"/>
 
 </div>
