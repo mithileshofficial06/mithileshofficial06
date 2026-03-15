@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=MITHILESH%20K%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descColor=aaaaaa&descAlignY=62&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=MITHILESH%20K%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Full%20Stack%20Dev%20%7C%20AI%20Builder%20%7C%20CSE%20Student&descColor=aaaaaa&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mithilesh+%F0%9F%91%8B;Full+Stack+Developer+%7C+CSE+Student;Open+source+explorer+%7C+Problem+solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mithilesh+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%7C+CSE+Student;Open+source+explorer+%7C+Problem+solver)](https://git.io/typing-svg)
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mithileshofficial06&label=Profile+Views&color=238636&style=flat-square" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh06/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mithileshofficial06)
+
+<a href="https://www.linkedin.com/in/mithilesh06/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mithileshofficial06"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -21,11 +20,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name     : Mithilesh K S
-college  : LICET — Loyola ICAM College of Engineering and Technology
-location : Chennai, Tamil Nadu 🇮🇳
-focus    : Full Stack Web Dev · AI/ML · Cybersecurity
-projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · NaviLens
+Name     : Mithilesh K S
+College  : LICET — Loyola ICAM College of Engineering and Technology
+Location : Chennai, Tamil Nadu 🇮🇳
+Focus    : Aspiring Full Stack Web Dev · AI/ML · Cybersecurity
+Projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · NaviLens
 ```
 
 ---
