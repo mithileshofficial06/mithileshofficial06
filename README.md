@@ -8,12 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mithileshofficial06&label=Profile+Views&color=58a6ff&style=flat-square" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh06/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mithileshofficial06)
-
 </div>
 
 ---
@@ -21,11 +15,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name     : Mithilesh K S
-college  : LICET — Loyola ICAM College of Engineering and Technology
-location : Chennai, Tamil Nadu 🇮🇳
-focus    : Full Stack Web Dev · AI/ML · Cybersecurity
-projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · NaviLens
+Name     : Mithilesh K S
+College  : LICET — Loyola ICAM College of Engineering and Technology
+Location : Chennai, Tamil Nadu 🇮🇳
+Focus    : Full Stack Web Dev · AI/ML · Cybersecurity
+Projects : AISA · Vaxi-Track · CNN Breed Classifier · KalyanaKonnection · NaviLens
 ```
 
 ---
