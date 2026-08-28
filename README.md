@@ -91,54 +91,54 @@ fun_fact:  I'd rather automate it than do it twice
 <tr>
 <td width="50%" valign="top">
 
+### ⚖️ [Justify-Sync](https://github.com/mithileshofficial06/Justify-Sync) — [live](https://justify-sync.vercel.app)
+Finds undertrial prisoners in Indian district jails who qualify for release under Section 479 BNSS, and routes verified cases to District Legal Services Authority lawyers — with a human confirming every decision.
+
+`TypeScript` `Next.js` `Legal Tech` `Social Impact`
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 [InboxIQ](https://github.com/mithileshofficial06/InboxIQ) — [live](https://inbox-iq-frontend-three.vercel.app)
+AI-powered Gmail analytics platform with OAuth login, automatic email categorization, sentiment analysis, and RAG-based semantic search over your inbox.
+
+`TypeScript` `AI` `OAuth` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [codemap](https://github.com/mithileshofficial06/codemap) — [live](https://codebase-api.vercel.app)
+AI-powered codebase intelligence tool that turns a repository into an interactive visual map, built as a Turborepo monorepo with Gemini AI and D3.js.
+
+`TypeScript` `Express` `Gemini AI` `D3.js`
+
+</td>
+<td width="50%" valign="top">
+
 ### 💉 [Vaxi-Track](https://github.com/mithileshofficial06/VaxiTrack)
-Full-stack immunization tracking platform for India that follows the official UIP schedule, automates AI-generated voice call & SMS reminders, and gives admins real-time analytics dashboards.
+Full-stack immunization tracker for India built on the official UIP schedule — automates AI-generated voice call & SMS reminders and gives admins real-time analytics dashboards.
 
-`TypeScript` `React` `Node.js` `AI` `Healthcare`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [EduGenie](https://github.com/mithileshofficial06/edugenie)
-AI-powered academic assistant that monitors Moodle, auto-generates mock exams using Mistral/Gemini, and pushes deadline alerts straight to WhatsApp and Email.
-
-`JavaScript` `AI` `Automation` `EdTech`
+`FastAPI` `Next.js` `MongoDB` `Twilio` `AI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [AISA — AI Security Analyst](https://github.com/mithileshofficial06/AI-Security-Analyst-CLI-)
-Command-line cybersecurity tool that automates vulnerability scanning on a target URL and uses AI to generate structured, detailed PDF security reports.
+### 📈 [GraphOne](https://github.com/mithileshofficial06/graphone) — [live](https://graphone-pi.vercel.app)
+AI intelligence platform tracking 50,000+ AI companies and $100B+ in funding — a global data layer for the AI economy.
 
-`Python` `AI` `CLI` `Security`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 [AI Automated Security Scanner](https://github.com/mithileshofficial06/AI_Automated_Security_scanner)
-Prototype web vulnerability scanner with a modern UI, AI-assisted analysis, customizable scan configurations, and detailed PDF report generation.
-
-`Python` `AI` `Security` `Web`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍱 [KalyanaKonnection](https://github.com/mithileshofficial06/KalyanaKonnection)
-Role-based food surplus redistribution platform connecting event food providers with NGOs for fast, verified, and transparent pickup.
-
-`HTML` `Python` `Flask` `Social Good`
+`Next.js` `TypeScript` `Supabase`
 
 </td>
 <td width="50%" valign="top">
 
-### 🐾 [CNN Breed Classifier](https://github.com/mithileshofficial06/CNN_Breed_Classifier)
-Deep learning model built with Convolutional Neural Networks that recognizes animal breeds from images, with automated evaluation and reporting.
+### 🎓 [scholar-shield](https://github.com/mithileshofficial06/scholar-shield)
+Scholarship-fraud risk-triage engine for college committees, using entity resolution and contradiction detection over applications — flags for review, never auto-decides.
 
-`Python` `TensorFlow` `CNN` `Deep Learning`
+`TypeScript` `Fraud Detection` `EdTech`
 
 </td>
 </tr>
